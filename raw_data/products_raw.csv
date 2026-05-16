@@ -1,0 +1,499 @@
+product_id,product_name,category,description,sell_price,cost_price,supplier,in_stock,launch_date
+PROD0001,Jackson Phone,Electronics,,286.05,129.27,Lewis Inc,True,2026-02-21
+PROD0002,Ryan Smart Watch,Electronics,Ryan Smart Watch,485.64,206.03,Taylor-Davis,True,2022-04-09
+PROD0003,Turner-Clark Phone,Electronics,Turner-Clark Phone,1220.37,580.94,Wright-Rowe,False,2023-05-08
+PROD0004,Kelly-Wilson Laptop,Electronics,Kelly-Wilson Laptop,604.93,399.48,Smith Inc,False,2022-08-20
+PROD0005,Macdonald Smart Watch,Electronics,Macdonald Smart Watch,1068.11,461.96,"Hale, Dawson and Brown",True,2023-03-16
+PROD0006,"Jones, Headphones",Electronics,"Jones, Headphones",975.79,512.72,Richardson Ltd,False,2022-07-02
+PROD0007,Jenkins Tablet,Electronics,,685.91,,Smith-Savage,True,2022-09-23
+PROD0008,Watson-Campbell Tablet,Electronics,Watson-Campbell Tablet,1095.66,604.75,Kemp-Ali,False,2021-12-28
+PROD0009,"Hudson, Headphones",electronics,"Hudson, Headphones",69.8,51.48,"Walsh, Burke and Morrison",True,2022-02-08
+PROD0010,Marshall Phone,ELECTRONICS,Marshall Phone,698.27,313.58,Wall LLC,True,2021-08-31
+PROD0011,Marsh-Wright Tablet,Electronics,Marsh-Wright Tablet,821.93,565.6,O'Neill-Lawrence,True,2023-06-20
+PROD0012,Hussain-Doherty Tablet,Electronics,Hussain-Doherty Tablet,1148.84,503.52,North Group,True,2025-03-12
+PROD0013,Stevens-Spencer Smart Watch,electronics,Stevens-Spencer Smart Watch,451.33,304.26,Powell-Knowles,True,2025-09-12
+PROD0014,Wheeler-Noble Smart Watch,electronics,,521.29,317.71,Potter-Wilkinson,True,2021-07-04
+PROD0015,Smith Laptop,Electronics,Smith Laptop,1260.9,709.32,Carr-Owens,True,2024-08-21
+PROD0016,"Lawrence, Tablet",Electronics,"Lawrence, Tablet",645.29,461.28,Lawson-Jones,True,2024-11-21
+PROD0017,Clarke-Jones Headphones,Electronics,,665.99,460.12,Turner-O'Connor,True,2025-02-09
+PROD0018,"Duncan, Camera",Electronics,"Duncan, Camera",168.48,91.21,Scott Ltd,True,2022-09-28
+PROD0019,Russell-Green Camera,Electronics,,1267.44,803.46,Ali LLC,False,2023-08-27
+PROD0020,Baker-Shepherd Tablet,ELECTRONICS,Baker-Shepherd Tablet,876.49,528.33,Shaw PLC,True,2024-03-15
+PROD0021,Roberts-Welch Speaker,ELECTRONICS,Roberts-Welch Speaker,297.36,137.9,Begum Inc,True,2024-10-13
+PROD0022,"Lloyd, Laptop",Electronics,"Lloyd, Laptop",765.1,435.61,"Douglas, Matthews and Jones",True,2022-02-23
+PROD0023,"McCarthy, Headphones",Electronics,"McCarthy, Headphones",826.63,,Nicholson and Sons,True,2021-12-11
+PROD0024,Williams-Brady Tablet,electronics,Williams-Brady Tablet,476.22,335.83,Tomlinson Group,True,2022-04-30
+PROD0025,Hargreaves-Walsh Laptop,electronics,Hargreaves-Walsh Laptop,1027.43,,Walsh Inc,True,2024-10-27
+PROD0026,Gilbert-Edwards Smart Watch,Electronics,Gilbert-Edwards Smart Watch,940.86,417.93,Fitzgerald Ltd,True,2024-07-01
+PROD0027,"Clarke, Headphones",Electronics,"Clarke, Headphones",1075.02,763.23,Foster-Powell,True,2023-02-23
+PROD0028,Walters Smart Watch,Electronics,Walters Smart Watch,801.16,363.02,Reynolds-Clarke,True,2025-08-01
+PROD0029,Freeman Tablet,Electronics,Freeman Tablet,248.43,158.53,"James, Chambers and Lawrence",False,2021-12-20
+PROD0030,"Jones, Speaker",Electronics,"Jones, Speaker",302.74,126.28,Morris Inc,False,2021-05-27
+PROD0031,"Connor, Headphones",ELECTRONICS,"Connor, Headphones",452.39,295.2,Giles Inc,True,2023-02-13
+PROD0032,"Ball, Camera",Electronics,"Ball, Camera",816.39,,Scott Ltd,True,2023-02-02
+PROD0033,Power Headphones,Electronics,Power Headphones,£1032.88,646.72,James-Oliver,True,2023-05-27
+PROD0034,Scott Phone,Electronics,Scott Phone,1165.79,516.7,"Fowler, Mason and George",True,2021-08-25
+PROD0035,Stevenson Laptop,Electronics,Stevenson Laptop,845.94,492.52,Bond and Sons,True,2022-02-21
+PROD0036,Smith-Anderson Smart Watch,Electronics,Smith-Anderson Smart Watch,978.63,,"Walsh, Reynolds and Ashton",True,2025-05-08
+PROD0037,Thornton-Dixon Headphones,Electronics,Thornton-Dixon Headphones,1097.46,537.11,Simpson-Gibbons,False,2023-10-27
+PROD0038,Fowler Speaker,Electronics,Fowler Speaker,413.87,,Armstrong-Dodd,False,2021-09-27
+PROD0039,"Payne, Speaker",Electronics,"Payne, Speaker",926.99,,Patel-Cartwright,True,2023-08-02
+PROD0040,"Baker, Camera",electronics,"Baker, Camera",684.77,374.48,Evans and Sons,True,2023-08-19
+PROD0041,"Cameron, Smart Watch",Electronics,"Cameron, Smart Watch",668.71,405.83,Ellis-Thompson,False,2024-12-06
+PROD0042,"Matthews, Smart Watch",Electronics,"Matthews, Smart Watch",698.7,505.74,"Clarke, Robinson and Rogers",True,2025-04-26
+PROD0043,"Austin, Laptop",Electronics,"Austin, Laptop",1258.4,608.46,"Hart, Waters and Robinson",True,2025-07-08
+PROD0044,"Jones, Tablet",electronics,"Jones, Tablet",858.85,475.88,Rhodes Ltd,False,2021-10-15
+PROD0045,"Gibbons, Camera",Electronics,"Gibbons, Camera",1185.09,563.65,Anderson-Dawson,True,2022-08-20
+PROD0046,Moore-Hunt Camera,Electronics,Moore-Hunt Camera,620.77,441.88,"Ellis, Birch and White",True,2021-09-29
+PROD0047,"Brooks, Tablet",Electronics,"Brooks, Tablet",622.75,465.1,"Smith, Perkins and Fuller",True,2024-05-18
+PROD0048,Miller Camera,Electronics,Miller Camera,551.64,287.95,"Dean, Williams and Wright",True,2024-09-01
+PROD0049,"Hussain, Tablet",Electronics,"Hussain, Tablet",1085.84,472.83,Taylor Ltd,False,2023-11-14
+PROD0050,"Bates, Phone",Electronics,"Bates, Phone",380.84,246.63,Carter PLC,True,2026-04-16
+PROD0051,Higgins Laptop,Electronics,Higgins Laptop,189.34,114.29,Williamson-Elliott,False,2025-06-04
+PROD0052,Lewis Smart Watch,Electronics,Lewis Smart Watch,919.54,,"Nicholls, Reed and George",True,2022-09-16
+PROD0053,Burke Smart Watch,Electronics,Burke Smart Watch,492.24,219.82,Wilson Group,True,2022-05-22
+PROD0054,Price-Barnett Tablet,Electronics,Price-Barnett Tablet,1299.29,,Miles-Roberts,True,2021-06-24
+PROD0055,Burrows Phone,Electronics,Burrows Phone,1143.91,633.87,"Kerr, Smith and Johnson",False,2023-11-01
+PROD0056,Reid-Fowler Speaker,Electronics,Reid-Fowler Speaker,598.68,356.04,"Day, Wright and Morris",False,2023-07-15
+PROD0057,Carey-John Camera,Electronics,Carey-John Camera,376.86,255.84,Lloyd-Griffin,True,2023-03-06
+PROD0058,"Lee, Tablet",Electronics,"Lee, Tablet",725.45,309.74,McCarthy-Wood,True,2021-10-05
+PROD0059,Johnson Laptop,Electronics,Johnson Laptop,1276.25,860.8,"White, O'Neill and Shepherd",True,2024-01-17
+PROD0060,Payne Camera,Electronics,Payne Camera,927.67,688.12,Lawson PLC,False,2021-11-06
+PROD0061,"Wright, Headphones",ELECTRONICS,"Wright, Headphones",788.82,333.38,"Edwards, Walton and Smith",True,2025-02-26
+PROD0062,Murray-Thomson Headphones,ELECTRONICS,Murray-Thomson Headphones,1134.46,512.5,"Owen, Dodd and Bowen",True,2025-04-30
+PROD0063,Brown-McDonald Camera,Electronics,Brown-McDonald Camera,797.16,439.07,Khan-Patel,True,2022-08-17
+PROD0064,Murray Tablet,Electronics,Murray Tablet,340.7,231.49,Hall-Nixon,True,2024-03-19
+PROD0065,"Mitchell, Smart Watch",electronics,"Mitchell, Smart Watch",£116.2,77.16,Shaw-Ryan,True,2025-11-20
+PROD0066,Patel-Cox Camera,Electronics,Patel-Cox Camera,£293.26,217.87,"Johnson, Robinson and Smith",True,2025-07-11
+PROD0067,"Armstrong, Tablet",Electronics,"Armstrong, Tablet",161.37,117.99,Griffiths Ltd,True,2024-05-24
+PROD0068,Watson Speaker,Electronics,Watson Speaker,479.11,207.72,Bell LLC,False,2023-09-08
+PROD0069,"Perkins, Phone",Electronics,,333.29,248.29,Francis LLC,True,2024-06-13
+PROD0070,"Davies, Smart Watch",Electronics,"Davies, Smart Watch",£123.92,65.75,Birch PLC,True,2023-10-10
+PROD0071,George Speaker,Electronics,George Speaker,1181.42,705.52,Morris-Johnson,True,2023-09-17
+PROD0072,Walker Tablet,Electronics,Walker Tablet,171.2,109.42,"Harris, Robinson and Winter",True,2023-05-05
+PROD0073,White-Gibson Smart Watch,ELECTRONICS,White-Gibson Smart Watch,236.05,,White-James,True,2023-06-19
+PROD0074,"Nicholls, Speaker",Electronics,,1217.8,,"Williams, Greenwood and Turner",True,2021-05-16
+PROD0075,Jackson-Smith Smart Watch,Electronics,Jackson-Smith Smart Watch,244.06,150.0,Evans Group,True,2021-12-31
+PROD0076,O'Brien-Mills Camera,Electronics,O'Brien-Mills Camera,743.07,385.22,Quinn-Morris,True,2023-01-01
+PROD0077,Robinson Laptop,Electronics,,1195.75,863.8,Williams-Hale,True,2023-11-30
+PROD0078,Hayes Camera,Electronics,Hayes Camera,868.5,624.58,Holmes Inc,True,2022-10-03
+PROD0079,Hargreaves Tablet,Electronics,Hargreaves Tablet,219.33,146.34,"Freeman, Robson and Thomas",False,2022-09-07
+PROD0080,"Hughes, Laptop",Electronics,"Hughes, Laptop",451.88,257.32,Oliver Inc,True,2024-03-21
+PROD0081,Lee-Turner Smart Watch,Electronics,Lee-Turner Smart Watch,1089.06,,Ellis LLC,True,2023-02-10
+PROD0082,Kennedy Camera,Electronics,Kennedy Camera,109.94,45.05,"Turner, Cox and Flynn",False,2023-12-18
+PROD0083,"Long, Camera",electronics,"Long, Camera",685.46,477.92,Jenkins-O'Neill,True,2024-09-26
+PROD0084,Lewis-Forster Jeans,Clothing,Lewis-Forster Jeans,£109.73,46.69,"Johnson, Evans and Wallis",True,2021-09-02
+PROD0085,Webster Trainers,Clothing,Webster Trainers,26.28,13.18,Fisher-Williams,False,2024-12-02
+PROD0086,Lewis Coat,Clothing,Lewis Coat,41.96,30.26,James PLC,False,2025-11-24
+PROD0087,Collins Trainers,Clothing,Collins Trainers,89.87,63.12,Hill and Sons,True,2024-07-21
+PROD0088,"Randall, Dress",Clothing,,125.29,66.65,"Jones, Pritchard and Butcher",False,2024-04-14
+PROD0089,Hodgson T-Shirt,Clothing,Hodgson T-Shirt,107.43,59.86,"Brooks, Fox and Shaw",False,2022-04-28
+PROD0090,"Nicholson, T-Shirt",Clothing,"Nicholson, T-Shirt",35.66,18.35,"Webb, Edwards and Carr",True,2025-05-02
+PROD0091,"Evans, Jacket",Clothing,,129.76,63.78,Carey Ltd,False,2025-07-18
+PROD0092,Parker-Iqbal Jeans,Clothing,Parker-Iqbal Jeans,27.79,20.8,Owens-Evans,True,2024-02-21
+PROD0093,Cox Jeans,Clothing,Cox Jeans,71.02,37.63,"Bennett, Webster and Graham",True,2024-09-15
+PROD0094,Bennett Coat,Clothing,Bennett Coat,39.45,20.17,Norris-Smith,True,2023-04-12
+PROD0095,"Grant, Dress",Clothing,"Grant, Dress",£38.08,23.82,Thornton Ltd,True,2023-08-17
+PROD0096,"Green, Jacket",CLOTHING,"Green, Jacket",102.11,56.53,"Stewart, Chapman and Thornton",True,2024-08-16
+PROD0097,"Tucker, Jeans",CLOTHING,,86.59,,Murphy-Harris,True,2024-11-06
+PROD0098,"Carter, Trainers",Clothing,"Carter, Trainers",140.58,74.46,Hill-Murphy,False,2025-12-12
+PROD0099,Edwards-Johnson Coat,CLOTHING,,89.36,62.55,Lawrence Inc,False,2022-01-05
+PROD0100,Cooke-Doyle Shoes,Clothing,Cooke-Doyle Shoes,100.26,50.02,Saunders and Sons,True,2023-11-26
+PROD0101,"Parry, Trainers",Clothing,"Parry, Trainers",73.69,53.19,Hart-Smith,True,2025-07-10
+PROD0102,Davis Dress,CLOTHING,,149.87,106.21,Patterson-Bull,False,2025-04-21
+PROD0103,Roberts Dress,Clothing,Roberts Dress,109.49,64.55,Robinson-Taylor,False,2024-01-15
+PROD0104,Wright-Hale Dress,Clothing,,74.47,41.58,Ross Ltd,True,2022-11-19
+PROD0105,"Black, Jeans",Clothing,"Black, Jeans",40.36,18.84,Daniels Group,False,2023-11-03
+PROD0106,Lloyd Jacket,Clothing,Lloyd Jacket,100.15,47.54,Brown Inc,False,2022-03-12
+PROD0107,"Turner, T-Shirt",Clothing,"Turner, T-Shirt",37.91,19.64,Evans-Nash,True,2023-03-11
+PROD0108,Vaughan-Smith Trainers,Clothing,Vaughan-Smith Trainers,38.89,23.28,Gill-Price,True,2024-01-06
+PROD0109,Scott Jeans,Clothing,Scott Jeans,67.57,38.11,Smith-Fisher,True,2024-04-08
+PROD0110,Cross Trainers,Clothing,,23.58,,"Allen, Parsons and Kennedy",True,2025-05-18
+PROD0111,"Pratt, Jeans",CLOTHING,"Pratt, Jeans",114.09,83.89,Bell LLC,False,2023-06-17
+PROD0112,Ferguson Dress,Clothing,Ferguson Dress,57.4,26.48,Harvey Ltd,True,2023-11-26
+PROD0113,Johnston Shoes,Clothing,Johnston Shoes,137.42,74.67,Willis Group,True,2023-12-27
+PROD0114,"Bevan, T-Shirt",Clothing,"Bevan, T-Shirt",102.93,46.46,"Shah, Johnson and Day",True,2022-04-18
+PROD0115,Hopkins-Savage Coat,Clothing,Hopkins-Savage Coat,12.78,8.19,"Lowe, Williams and Sullivan",False,2021-06-11
+PROD0116,"Stevenson, Trainers",clothing,"Stevenson, Trainers",89.34,63.43,Edwards Ltd,False,2021-05-29
+PROD0117,Bibi-Gardner Jeans,Clothing,Bibi-Gardner Jeans,25.53,18.57,White-Daniels,True,2022-10-21
+PROD0118,Gray-Smith Jacket,Clothing,Gray-Smith Jacket,94.38,,"Johnson, Carr and Johnston",True,2022-08-28
+PROD0119,Watts Shoes,Clothing,Watts Shoes,£49.22,28.65,Skinner-Barker,True,2021-10-15
+PROD0120,"Tucker, Jacket",Clothing,,72.84,,Brown Group,True,2023-12-25
+PROD0121,Campbell Jeans,Clothing,Campbell Jeans,132.08,,"Haynes, Williams and Barker",False,2022-07-29
+PROD0122,Hutchinson T-Shirt,Clothing,Hutchinson T-Shirt,107.33,53.09,Morrison-Coles,True,2024-11-24
+PROD0123,"Ford, Jeans",Clothing,"Ford, Jeans",142.0,92.54,"Hooper, Berry and Welch",True,2023-05-01
+PROD0124,"Jarvis, Coat",Clothing,,103.26,52.82,Jones-Warren,True,2024-01-20
+PROD0125,Dixon-Palmer Jeans,Clothing,,£62.26,28.26,"Frost, Daniels and Porter",True,2025-06-01
+PROD0126,Byrne Coat,Clothing,Byrne Coat,137.24,58.28,Williams Ltd,True,2025-08-30
+PROD0127,"Wilson, Shoes",clothing,"Wilson, Shoes",27.07,17.5,Bartlett-Short,True,2025-08-20
+PROD0128,Newman Dress,CLOTHING,Newman Dress,120.81,,"Robinson, Price and Bell",False,2024-05-20
+PROD0129,Brown-Davies Coat,Clothing,Brown-Davies Coat,37.61,28.05,"Harding, Wall and Wells",True,2022-04-30
+PROD0130,Evans-Thomson Dress,Clothing,Evans-Thomson Dress,35.88,14.43,Griffin-Stone,True,2025-05-01
+PROD0131,Dean Trainers,Clothing,Dean Trainers,116.62,54.33,Wilkinson-Jones,True,2023-12-12
+PROD0132,"Lewis, Shoes",Clothing,,67.71,42.27,Phillips-Lee,True,2023-10-29
+PROD0133,"Edwards, Jacket",Clothing,"Edwards, Jacket",115.59,,Reeves-Walker,True,2026-02-19
+PROD0134,"Shepherd, Trainers",clothing,"Shepherd, Trainers",117.01,,McDonald Ltd,True,2023-11-24
+PROD0135,Austin-Atkins Trainers,Clothing,Austin-Atkins Trainers,105.34,,Chapman Group,False,2025-05-02
+PROD0136,"Pollard, Jacket",Clothing,,79.95,53.34,Thompson Group,True,2026-03-31
+PROD0137,"Blackburn, Dress",Clothing,"Blackburn, Dress",75.08,42.16,Barrett and Sons,False,2025-06-01
+PROD0138,Bolton-Howard Jeans,CLOTHING,Bolton-Howard Jeans,29.88,19.8,"Davies, Gill and Butler",True,2022-12-01
+PROD0139,Roberts-Slater Dress,Clothing,Roberts-Slater Dress,61.19,33.78,Ward-Dobson,True,2026-04-30
+PROD0140,Mason-Burton Dress,Clothing,Mason-Burton Dress,76.11,37.66,"Arnold, Lloyd and Evans",True,2023-12-16
+PROD0141,Walton Jeans,Clothing,Walton Jeans,36.58,22.4,Adams LLC,True,2026-03-30
+PROD0142,Lyons-George T-Shirt,Clothing,Lyons-George T-Shirt,19.36,9.93,Taylor-Dixon,False,2025-10-23
+PROD0143,Smith-McKenzie Dress,Clothing,,11.81,6.0,Humphreys-Marshall,True,2022-07-15
+PROD0144,"Butcher, Shoes",Clothing,,49.46,32.33,Smith LLC,False,2026-01-20
+PROD0145,Mason-Harrison Jacket,Clothing,Mason-Harrison Jacket,68.37,32.36,Clark Ltd,False,2025-06-29
+PROD0146,Griffin Coat,Clothing,Griffin Coat,49.26,25.58,Duncan-Wilkinson,True,2023-05-29
+PROD0147,"Quinn, Trainers",Clothing,"Quinn, Trainers",£92.99,44.91,Morris PLC,True,2023-09-20
+PROD0148,"Glover, Dress",Clothing,"Glover, Dress",115.02,,Reynolds LLC,True,2022-09-14
+PROD0149,Walker T-Shirt,Clothing,,72.92,49.01,Rhodes PLC,True,2025-10-25
+PROD0150,"Wilkins, Jeans",Clothing,"Wilkins, Jeans",98.62,50.74,"Gill, Nixon and Bird",True,2025-08-13
+PROD0151,White-Roberts Shoes,Clothing,White-Roberts Shoes,133.64,62.81,"Thompson, Smith and Mann",True,2022-02-07
+PROD0152,"Wilson, Trainers",Clothing,"Wilson, Trainers",133.86,78.07,"Howe, Price and Edwards",True,2022-10-07
+PROD0153,Nicholson-Scott Jacket,Clothing,Nicholson-Scott Jacket,38.58,,Jones-Buckley,True,2025-03-31
+PROD0154,"Scott, Dress",Clothing,"Scott, Dress",97.61,58.01,Walton-Gray,False,2023-12-20
+PROD0155,"Daly, Jacket",Clothing,"Daly, Jacket",32.8,14.6,"Wilkinson, Fitzgerald and Kay",True,2022-07-31
+PROD0156,Singh-Evans Coat,Clothing,Singh-Evans Coat,110.86,65.69,"Goodwin, Bartlett and Robinson",True,2022-07-04
+PROD0157,"Phillips, Trainers",clothing,,49.6,29.66,"Fraser, Kirk and Davies",True,2023-02-06
+PROD0158,"Barry, T-Shirt",clothing,"Barry, T-Shirt",29.58,12.89,Fox-Buckley,True,2025-10-21
+PROD0159,"Shepherd, Dress",CLOTHING,"Shepherd, Dress",58.09,24.65,Macdonald Inc,True,2022-07-26
+PROD0160,"Hicks, Shoes",Clothing,"Hicks, Shoes",125.19,85.76,Mitchell-Randall,True,2022-08-09
+PROD0161,Evans T-Shirt,CLOTHING,Evans T-Shirt,100.0,64.41,Elliott Group,True,2023-03-25
+PROD0162,Baker Shoes,Clothing,,54.71,29.3,"Barnett, Russell and Storey",False,2024-04-27
+PROD0163,Jones Shoes,Clothing,,19.5,,Thornton-King,True,2023-01-07
+PROD0164,Hope Shoes,Clothing,Hope Shoes,135.79,62.12,Jenkins and Sons,True,2024-10-22
+PROD0165,"Walker, Shoes",Clothing,"Walker, Shoes",64.37,44.56,Brooks-Carter,True,2023-09-30
+PROD0166,White-Chapman Dress,Clothing,,14.02,8.57,Howell Inc,True,2025-08-24
+PROD0167,Brookes-Taylor Beer,Food & Drink,Brookes-Taylor Beer,28.12,13.27,Palmer and Sons,True,2022-08-30
+PROD0168,"Harris, Biscuits",Food & Drink,,14.98,9.39,Harvey Ltd,True,2025-04-12
+PROD0169,"Chapman, Tea",Food & Drink,"Chapman, Tea",25.22,17.68,"Austin, Stewart and Lee",True,2022-02-17
+PROD0170,Kelly Chocolate,Food & Drink,,£15.43,9.39,Dyer Group,True,2021-05-16
+PROD0171,"Kaur, Juice",food & drink,"Kaur, Juice",2.86,,"Vincent, Fisher and Payne",True,2025-09-05
+PROD0172,"Fuller, Coffee",Food & Drink,"Fuller, Coffee",£3.49,1.66,Pratt-Rowe,True,2021-10-17
+PROD0173,"Grant, Biscuits",Food & Drink,"Grant, Biscuits",23.56,16.83,"Sykes, Holt and Roberts",True,2024-01-09
+PROD0174,"Manning, Coffee",FOOD & DRINK,"Manning, Coffee",27.73,18.32,Foster PLC,True,2025-11-14
+PROD0175,Lowe-Powell Coffee,Food & Drink,Lowe-Powell Coffee,4.4,2.12,Green-Savage,False,2023-05-27
+PROD0176,Jones-Harris Coffee,food & drink,Jones-Harris Coffee,22.47,,Shah-Richardson,False,2023-03-17
+PROD0177,Fletcher-Foster Tea,FOOD & DRINK,Fletcher-Foster Tea,29.23,,Rees PLC,True,2022-11-05
+PROD0178,"Hart, Beer",Food & Drink,"Hart, Beer",15.41,,Parsons Inc,True,2024-03-24
+PROD0179,Ingram-James Beer,Food & Drink,Ingram-James Beer,3.23,1.93,"Schofield, Davies and Richardson",True,2025-02-10
+PROD0180,Clarke Biscuits,Food & Drink,Clarke Biscuits,12.18,7.42,Morris Ltd,True,2022-08-26
+PROD0181,Dunn Biscuits,Food & Drink,Dunn Biscuits,22.58,11.77,"Scott, Davidson and Coleman",False,2023-11-12
+PROD0182,Reed-Chapman Beer,Food & Drink,Reed-Chapman Beer,17.17,9.03,Gilbert Ltd,False,2023-01-26
+PROD0183,"Coleman, Chocolate",FOOD & DRINK,"Coleman, Chocolate",23.09,16.2,Dunn Group,True,2022-10-20
+PROD0184,"Evans, Wine",Food & Drink,"Evans, Wine",11.56,7.18,Moss Ltd,False,2022-05-29
+PROD0185,Hunter Coffee,Food & Drink,Hunter Coffee,25.05,17.74,Warren Group,True,2025-03-04
+PROD0186,"Mitchell, Beer",Food & Drink,"Mitchell, Beer",8.34,5.41,"Pearson, Daniels and James",False,2023-04-13
+PROD0187,Butler-Woods Wine,Food & Drink,Butler-Woods Wine,20.38,10.95,Newton Inc,False,2026-03-24
+PROD0188,Robertson Tea,FOOD & DRINK,Robertson Tea,25.35,18.08,"King, Thompson and Walker",True,2024-02-29
+PROD0189,"Dobson, Chocolate",Food & Drink,"Dobson, Chocolate",6.03,2.56,Young-Stephenson,True,2025-10-21
+PROD0190,"Gibson, Juice",Food & Drink,,7.34,2.98,"Clarke, Stevens and Pearce",False,2024-01-01
+PROD0191,"Blake, Coffee",Food & Drink,"Blake, Coffee",13.8,7.25,Sanderson-Cooper,False,2023-03-30
+PROD0192,Heath Wine,FOOD & DRINK,,18.5,10.5,Whittaker Inc,True,2023-10-03
+PROD0193,Cook Biscuits,Food & Drink,Cook Biscuits,2.86,1.85,Jenkins-Wilson,True,2023-07-19
+PROD0194,Hughes Beer,Food & Drink,Hughes Beer,15.72,,Webster-Little,True,2025-12-30
+PROD0195,Barnes Tea,Food & Drink,Barnes Tea,22.27,14.49,Dunn-Robertson,True,2023-05-20
+PROD0196,"Smith, Biscuits",Food & Drink,,£10.66,7.16,"Hargreaves, Mitchell and Graham",True,2024-12-28
+PROD0197,Lee-Donnelly Wine,Food & Drink,Lee-Donnelly Wine,14.43,8.31,Evans-Adams,True,2023-09-17
+PROD0198,Davis-King Biscuits,Food & Drink,Davis-King Biscuits,18.39,11.85,Ellis and Sons,True,2023-05-11
+PROD0199,Wilson Chocolate,Food & Drink,Wilson Chocolate,£5.06,2.3,Brown Inc,True,2024-06-18
+PROD0200,Fox Juice,Food & Drink,Fox Juice,12.54,6.34,Jones and Sons,True,2023-04-08
+PROD0201,"Riley, Coffee",food & drink,"Riley, Coffee",6.59,2.94,Russell Ltd,False,2025-01-22
+PROD0202,Clayton-Hammond Coffee,Food & Drink,Clayton-Hammond Coffee,£21.83,15.59,"Graham, Lawrence and Sharpe",False,2025-04-02
+PROD0203,"Lewis, Coffee",Food & Drink,"Lewis, Coffee",3.81,1.87,Gregory-Barnett,True,2023-01-13
+PROD0204,"Patel, Coffee",Food & Drink,"Patel, Coffee",2.67,1.15,Dodd-Smith,False,2021-09-13
+PROD0205,Evans Coffee,food & drink,Evans Coffee,29.17,18.37,"Jones, Hayes and Jones",False,2024-11-24
+PROD0206,Bartlett Coffee,Food & Drink,Bartlett Coffee,12.4,,"Hall, Cooper and Reed",True,2026-01-31
+PROD0207,Williams Biscuits,Food & Drink,,27.77,19.47,"Baker, Watts and Morgan",False,2026-04-22
+PROD0208,Robinson Wine,Food & Drink,Robinson Wine,19.73,11.63,"Williams, Russell and Mills",True,2022-12-26
+PROD0209,Evans-Patterson Chocolate,Food & Drink,Evans-Patterson Chocolate,16.36,12.2,"Jenkins, Ali and Johnson",True,2021-11-08
+PROD0210,Morrison Juice,Food & Drink,Morrison Juice,£9.34,3.93,Wilkinson Inc,True,2021-11-16
+PROD0211,Barker Chocolate,Food & Drink,Barker Chocolate,14.59,10.11,Ahmed Group,False,2023-04-05
+PROD0212,Murphy-Goddard Beer,Food & Drink,Murphy-Goddard Beer,£26.4,16.43,Connor-Holmes,False,2021-05-19
+PROD0213,Walker Coffee,food & drink,Walker Coffee,17.72,11.46,Lawrence-Nicholson,True,2022-05-25
+PROD0214,Baker Biscuits,Food & Drink,Baker Biscuits,25.41,15.55,Richardson-Benson,True,2024-02-12
+PROD0215,Jones Chocolate,Food & Drink,Jones Chocolate,£11.43,7.34,"Wilkinson, Bishop and James",True,2023-12-25
+PROD0216,Hunter-Harding Juice,Food & Drink,Hunter-Harding Juice,10.08,5.84,Glover Group,True,2021-09-10
+PROD0217,O'Donnell-Nixon Tea,Food & Drink,O'Donnell-Nixon Tea,25.11,14.59,"Bond, Fleming and Jones",True,2025-05-14
+PROD0218,Hunter Juice,Food & Drink,Hunter Juice,23.55,11.85,"Reed, Davis and Mills",True,2024-05-16
+PROD0219,Kennedy Coffee,Food & Drink,Kennedy Coffee,22.28,15.74,Bryant-Scott,False,2023-05-17
+PROD0220,Reynolds Biscuits,Food & Drink,Reynolds Biscuits,8.87,5.05,Allen-Hamilton,True,2022-12-12
+PROD0221,Harvey Coffee,FOOD & DRINK,Harvey Coffee,29.05,19.89,"Newman, Cross and Adams",False,2022-05-16
+PROD0222,Mitchell-Brown Chocolate,Food & Drink,Mitchell-Brown Chocolate,28.16,16.69,Fox Ltd,False,2021-05-30
+PROD0223,"Powell, Wine",Food & Drink,"Powell, Wine",5.02,2.78,"Noble, Daly and Baker",True,2024-09-20
+PROD0224,Taylor-Wilson Juice,food & drink,Taylor-Wilson Juice,3.96,1.73,Howard-Woods,True,2024-01-26
+PROD0225,"Chandler, Beer",Food & Drink,"Chandler, Beer",17.85,7.2,Cooper-Holloway,True,2022-01-15
+PROD0226,Jackson Wine,Food & Drink,Jackson Wine,11.89,,Vaughan-Morgan,False,2025-12-12
+PROD0227,Barnes-Hayes Tea,Food & Drink,Barnes-Hayes Tea,17.16,6.97,Parkes-Mann,True,2025-11-02
+PROD0228,"Stevens, Coffee",Food & Drink,"Stevens, Coffee",8.88,4.82,White Ltd,True,2022-11-01
+PROD0229,"Pugh, Tea",Food & Drink,"Pugh, Tea",20.78,11.48,Miller Group,False,2025-08-16
+PROD0230,Nixon Beer,Food & Drink,Nixon Beer,£14.43,6.53,Morgan Group,True,2025-01-30
+PROD0231,"Bennett, Beer",Food & Drink,"Bennett, Beer",15.75,10.65,Coleman Group,True,2026-04-07
+PROD0232,Hancock Biscuits,Food & Drink,Hancock Biscuits,6.04,2.58,Anderson Inc,True,2022-09-13
+PROD0233,Marshall-Smith Chocolate,Food & Drink,Marshall-Smith Chocolate,9.67,6.29,Day Inc,True,2024-08-31
+PROD0234,James Beer,Food & Drink,James Beer,21.52,12.01,Bates Inc,False,2022-09-04
+PROD0235,Willis-Clayton Chocolate,Food & Drink,Willis-Clayton Chocolate,4.49,2.2,Murphy-Lewis,True,2025-11-28
+PROD0236,Allen-Davison Juice,Food & Drink,Allen-Davison Juice,3.01,,Shah PLC,True,2023-07-06
+PROD0237,Watkins-Coates Biscuits,Food & Drink,Watkins-Coates Biscuits,4.21,3.06,"Nash, Campbell and Coleman",True,2025-09-30
+PROD0238,Thomas-Field Chocolate,FOOD & DRINK,Thomas-Field Chocolate,£10.71,6.24,"Cooper, Hudson and Roberts",True,2021-09-15
+PROD0239,Morrison Biscuits,Food & Drink,Morrison Biscuits,17.33,12.65,"Cross, White and Taylor",True,2023-12-07
+PROD0240,Miller Juice,Food & Drink,Miller Juice,4.83,3.31,"George, Chapman and Adams",True,2021-08-16
+PROD0241,Rowley-Kay Wine,Food & Drink,,28.09,,Heath-Buckley,True,2022-04-01
+PROD0242,"Allen, Chocolate",Food & Drink,"Allen, Chocolate",5.77,2.41,Allen-Brown,True,2025-06-25
+PROD0243,Gilbert Chocolate,Food & Drink,,8.87,,Martin and Sons,False,2026-05-04
+PROD0244,Cooper Tea,Food & Drink,Cooper Tea,2.01,1.13,"O'Connor, Johnson and Gray",False,2025-03-29
+PROD0245,"Dunn, Beer",Food & Drink,"Dunn, Beer",28.4,14.88,Bevan-Goddard,False,2025-01-19
+PROD0246,Brady Tea,Food & Drink,Brady Tea,16.08,9.24,Manning-White,False,2025-08-14
+PROD0247,Roberts Chocolate,food & drink,Roberts Chocolate,12.52,6.65,Tomlinson PLC,True,2024-06-27
+PROD0248,"Williams, Chocolate",Food & Drink,,26.22,17.74,Austin and Sons,True,2022-10-30
+PROD0249,Jones Chocolate,Food & Drink,Jones Chocolate,9.07,4.9,"Baker, Phillips and Leonard",True,2021-12-16
+PROD0250,"Coates, Cushion",HOME & GARDEN,"Coates, Cushion",81.24,58.73,Mason Group,False,2022-05-16
+PROD0251,Rees-Ford Lamp,Home & Garden,Rees-Ford Lamp,55.84,29.27,"Watson, Mitchell and Evans",True,2024-02-19
+PROD0252,"Davison, Plant Pot",Home & Garden,"Davison, Plant Pot",21.44,15.49,"Kennedy, Mason and Khan",True,2025-08-17
+PROD0253,Campbell Picture Frame,Home & Garden,Campbell Picture Frame,23.58,,"Wood, Brown and Wilson",True,2026-02-27
+PROD0254,Wallace Plant Pot,Home & Garden,,9.32,5.41,Bull-Holmes,True,2024-04-16
+PROD0255,"Barnes, Cushion",Home & Garden,,84.29,44.87,Schofield-Jones,True,2025-01-15
+PROD0256,Williams Lamp,HOME & GARDEN,,£57.42,28.51,Scott Group,False,2021-09-11
+PROD0257,Taylor-Hodgson Picture Frame,Home & Garden,Taylor-Hodgson Picture Frame,21.45,14.58,Harvey-Foster,True,2024-12-29
+PROD0258,"White, Cushion",HOME & GARDEN,"White, Cushion",77.99,38.44,Sutton Group,False,2024-06-16
+PROD0259,Andrews Lamp,Home & Garden,Andrews Lamp,11.79,6.61,"Henderson, Marsh and Thomas",True,2026-01-08
+PROD0260,Slater Picture Frame,Home & Garden,Slater Picture Frame,52.47,37.32,Cross-Morgan,True,2023-06-03
+PROD0261,Taylor Vase,HOME & GARDEN,Taylor Vase,55.47,39.59,Holmes Group,True,2024-07-16
+PROD0262,Mann-Evans Candle,Home & Garden,Mann-Evans Candle,87.67,,Lewis-Davies,True,2024-02-03
+PROD0263,Harrison-Morrison Vase,Home & Garden,Harrison-Morrison Vase,71.59,50.7,Farrell-Wright,False,2021-08-31
+PROD0264,"Stanley, Rug",Home & Garden,"Stanley, Rug",38.98,23.32,Whitehouse-Cook,True,2022-04-05
+PROD0265,Brown-Rees Lamp,home & garden,,42.02,28.8,"Myers, Collins and Smith",True,2024-08-14
+PROD0266,Stephens-Mitchell Candle,Home & Garden,Stephens-Mitchell Candle,79.71,45.61,Matthews-Shaw,True,2023-06-11
+PROD0267,Stevenson Plant Pot,HOME & GARDEN,Stevenson Plant Pot,18.52,9.53,"Phillips, Marshall and Perkins",True,2024-10-05
+PROD0268,"Campbell, Cushion",Home & Garden,"Campbell, Cushion",50.92,,Reid LLC,True,2023-06-25
+PROD0269,"Cox, Candle",Home & Garden,"Cox, Candle",20.08,8.97,"Smith, Walters and Marsh",True,2026-03-19
+PROD0270,"Burke, Lamp",home & garden,,£19.03,,"Davies, James and Martin",True,2023-05-08
+PROD0271,Dawson-Thompson Vase,Home & Garden,Dawson-Thompson Vase,19.43,10.43,Smith Ltd,True,2023-10-08
+PROD0272,Mason-Parkin Cushion,Home & Garden,Mason-Parkin Cushion,10.51,6.43,Wong Inc,True,2025-10-13
+PROD0273,"Ward, Lamp",Home & Garden,"Ward, Lamp",38.43,19.93,"Lawrence, Thompson and Fletcher",False,2021-10-09
+PROD0274,"Williams, Candle",Home & Garden,,73.58,35.49,"Brown, Edwards and Hughes",True,2025-08-14
+PROD0275,Martin-Pearson Lamp,Home & Garden,,11.74,,Bell-White,True,2023-07-11
+PROD0276,Cooper Rug,Home & Garden,Cooper Rug,32.19,15.57,Roberts-Stone,True,2023-05-19
+PROD0277,"Dodd, Rug",Home & Garden,,£22.82,,Jones-Lowe,True,2021-05-24
+PROD0278,"Lawrence, Candle",Home & Garden,,20.85,11.97,O'Neill LLC,True,2025-02-03
+PROD0279,"Parker, Rug",Home & Garden,,87.16,47.75,"Pope, Douglas and Poole",True,2022-09-11
+PROD0280,Abbott-Francis Plant Pot,Home & Garden,Abbott-Francis Plant Pot,40.33,23.0,Hopkins Group,True,2024-12-27
+PROD0281,Carter Cushion,Home & Garden,Carter Cushion,66.26,36.19,"Hooper, Evans and Burton",True,2023-03-01
+PROD0282,"Iqbal, Lamp",Home & Garden,"Iqbal, Lamp",46.03,31.69,Warren PLC,True,2024-01-09
+PROD0283,"Clarke, Picture Frame",Home & Garden,"Clarke, Picture Frame",38.2,22.35,Hall Group,True,2022-03-07
+PROD0284,"Watts, Candle",Home & Garden,,86.94,52.76,Porter Ltd,True,2024-06-22
+PROD0285,Little Candle,Home & Garden,Little Candle,75.5,41.23,Harrison-Turner,True,2022-02-10
+PROD0286,Wood-Baker Candle,Home & Garden,Wood-Baker Candle,27.49,19.57,"Mitchell, Scott and Taylor",True,2024-07-21
+PROD0287,McCarthy-Glover Picture Frame,home & garden,,£24.47,11.69,Berry-Hart,True,2021-10-25
+PROD0288,Davidson Picture Frame,Home & Garden,Davidson Picture Frame,74.22,43.89,Archer-Cook,True,2022-02-24
+PROD0289,Taylor-Riley Vase,Home & Garden,,56.01,23.41,Birch-Barton,True,2025-10-21
+PROD0290,"Morgan, Candle",Home & Garden,"Morgan, Candle",£52.65,27.12,Fisher and Sons,False,2023-03-18
+PROD0291,"Booth, Lamp",Home & Garden,"Booth, Lamp",13.44,9.76,Browne Inc,False,2025-09-06
+PROD0292,Forster Cushion,Home & Garden,Forster Cushion,66.97,35.26,"Taylor, Arnold and Waters",True,2026-03-12
+PROD0293,Edwards Cushion,Home & Garden,Edwards Cushion,79.21,,Duffy Inc,True,2022-07-13
+PROD0294,"Sinclair, Lamp",Home & Garden,"Sinclair, Lamp",70.01,36.27,Watson Group,True,2025-09-01
+PROD0295,Kelly-Crawford Vase,Home & Garden,Kelly-Crawford Vase,12.07,8.16,Cook and Sons,True,2024-02-28
+PROD0296,Howard-Davies Lamp,Home & Garden,Howard-Davies Lamp,18.78,9.76,Taylor Ltd,True,2026-04-23
+PROD0297,Powell-Davies Lamp,Home & Garden,Powell-Davies Lamp,33.91,18.18,Carter-Robertson,True,2022-11-13
+PROD0298,"Ford, Picture Frame",HOME & GARDEN,"Ford, Picture Frame",59.18,39.69,Morgan-Gallagher,False,2021-08-20
+PROD0299,Edwards-Woodward Picture Frame,home & garden,,70.51,37.76,Willis-Doherty,True,2025-10-21
+PROD0300,Ashton-Summers Lamp,Home & Garden,Ashton-Summers Lamp,88.94,64.65,Turner-Peacock,True,2022-11-18
+PROD0301,"Jones, Cushion",Home & Garden,"Jones, Cushion",76.65,46.61,"Spencer, Gray and Dixon",True,2022-04-21
+PROD0302,Kerr Lamp,Home & Garden,Kerr Lamp,58.11,23.9,Taylor-Kelly,True,2022-10-03
+PROD0303,Shaw-Sutton Lamp,Home & Garden,Shaw-Sutton Lamp,84.81,53.66,Lewis-Shepherd,False,2021-11-12
+PROD0304,Williams-Ball Lamp,Home & Garden,Williams-Ball Lamp,£87.88,46.34,Brooks-O'Neill,True,2024-11-04
+PROD0305,Gough-Hudson Rug,Home & Garden,Gough-Hudson Rug,12.9,5.78,Clark-Thomas,True,2021-07-29
+PROD0306,"May, Plant Pot",Home & Garden,"May, Plant Pot",80.5,37.35,Jones PLC,True,2025-12-24
+PROD0307,Heath-Reynolds Vase,Home & Garden,,65.58,47.7,Talbot PLC,False,2021-08-04
+PROD0308,Gough-Wilson Vase,HOME & GARDEN,Gough-Wilson Vase,84.11,42.83,"Francis, Jones and Higgins",True,2023-11-10
+PROD0309,Clark-Austin Lamp,home & garden,Clark-Austin Lamp,13.01,,Davison Inc,True,2021-06-05
+PROD0310,Stephenson Plant Pot,Home & Garden,Stephenson Plant Pot,18.49,13.48,"Sims, Cole and Ferguson",True,2022-08-12
+PROD0311,Carr Rug,Home & Garden,Carr Rug,74.03,41.8,Khan-Fisher,True,2022-03-24
+PROD0312,Winter-Hancock Candle,Home & Garden,Winter-Hancock Candle,5.44,3.17,"Jennings, Cooper and Harper",True,2023-12-25
+PROD0313,Vaughan-Sims Candle,Home & Garden,Vaughan-Sims Candle,22.93,14.52,Ward-Howard,True,2025-11-03
+PROD0314,Ward-Lane Plant Pot,Home & Garden,Ward-Lane Plant Pot,26.16,18.3,"Brooks, Morris and King",False,2023-10-02
+PROD0315,Singh-Hall Picture Frame,Home & Garden,Singh-Hall Picture Frame,21.24,10.38,Law-Riley,True,2024-01-24
+PROD0316,Jones Rug,Home & Garden,Jones Rug,8.41,6.3,Morris-Robinson,True,2022-12-22
+PROD0317,Buckley-White Picture Frame,Home & Garden,Buckley-White Picture Frame,5.23,,Richards-Morris,True,2024-03-17
+PROD0318,Bell-Walker Rug,Home & Garden,Bell-Walker Rug,60.07,26.62,Hall-Gill,True,2026-01-05
+PROD0319,Barrett Vase,Home & Garden,Barrett Vase,58.97,27.86,"Williams, Woodward and Parry",True,2022-04-26
+PROD0320,Moore Candle,HOME & GARDEN,,9.15,3.67,Webb-Armstrong,False,2023-04-16
+PROD0321,"Arnold, Picture Frame",Home & Garden,,29.56,16.1,Marshall-Graham,True,2021-07-20
+PROD0322,Arnold Picture Frame,Home & Garden,Arnold Picture Frame,43.62,22.08,Jordan-Harris,True,2022-09-06
+PROD0323,Shaw-Mann Cushion,Home & Garden,Shaw-Mann Cushion,45.82,25.35,Smith and Sons,True,2025-05-19
+PROD0324,"Stokes, Lamp",HOME & GARDEN,"Stokes, Lamp",27.74,14.7,Ward-Wilson,True,2025-10-19
+PROD0325,Jenkins Rug,Home & Garden,Jenkins Rug,39.31,16.59,"Green, Hardy and Elliott",True,2024-07-23
+PROD0326,Warner-Swift Rug,HOME & GARDEN,Warner-Swift Rug,47.24,27.63,Craig-Cook,False,2021-09-20
+PROD0327,Barker-West Picture Frame,Home & Garden,Barker-West Picture Frame,34.0,19.32,Winter and Sons,True,2024-02-23
+PROD0328,"Hunt, Picture Frame",Home & Garden,"Hunt, Picture Frame",21.94,11.86,"Singh, Humphreys and White",True,2024-09-12
+PROD0329,Henderson Cushion,Home & Garden,Henderson Cushion,32.59,22.82,"Lawson, Carr and Craig",True,2023-03-13
+PROD0330,Kirby Rug,home & garden,Kirby Rug,11.47,6.86,"Sharpe, Roberts and Jones",True,2024-07-07
+PROD0331,Law-Scott Lamp,Home & Garden,,62.87,46.62,Mahmood LLC,True,2025-03-20
+PROD0332,Horton Lamp,Home & Garden,,83.04,45.11,Johnson-Walker,True,2021-05-21
+PROD0333,"Francis, Gym Bag",Sports,,32.56,22.2,Evans-Lewis,True,2024-11-25
+PROD0334,"Ryan, Gym Bag",Sports,"Ryan, Gym Bag",41.73,27.75,Holmes Group,True,2022-06-27
+PROD0335,Rogers-Anderson Yoga Mat,Sports,Rogers-Anderson Yoga Mat,26.84,16.21,Thomson-Moore,False,2026-03-06
+PROD0336,Atkinson-Taylor Gym Bag,sports,Atkinson-Taylor Gym Bag,142.22,,"Clarke, French and Gray",True,2024-05-04
+PROD0337,Johnston Dumbbells,Sports,Johnston Dumbbells,150.11,98.53,Smith-Ball,True,2024-07-05
+PROD0338,Jones-Payne Gym Bag,Sports,Jones-Payne Gym Bag,35.55,15.69,"Birch, Hammond and Wade",False,2022-10-19
+PROD0339,"Farrell, Dumbbells",Sports,"Farrell, Dumbbells",£140.69,97.32,"Chandler, Woodward and Jones",False,2023-08-30
+PROD0340,Baker-Atkins Yoga Mat,Sports,Baker-Atkins Yoga Mat,26.11,,Parker PLC,True,2022-10-08
+PROD0341,"Williams, Water Bottle",Sports,"Williams, Water Bottle",39.9,29.89,"Barber, Young and Williams",False,2025-09-14
+PROD0342,"Holland, Running Shoes",Sports,"Holland, Running Shoes",69.98,42.84,Palmer-Williams,False,2026-05-01
+PROD0343,Lowe Yoga Mat,Sports,Lowe Yoga Mat,176.19,77.59,Jones-Bray,True,2023-12-04
+PROD0344,Parker-Jarvis Gym Bag,Sports,Parker-Jarvis Gym Bag,101.06,72.59,Smith Ltd,True,2023-12-21
+PROD0345,"Cameron, Dumbbells",sports,,55.68,23.26,Gill-Wilkins,True,2024-08-14
+PROD0346,Curtis-Woods Running Shoes,SPORTS,Curtis-Woods Running Shoes,59.61,35.3,Jones Ltd,True,2023-07-26
+PROD0347,Ahmed-Harrison Dumbbells,Sports,,142.76,61.57,"O'Neill, Palmer and Carter",True,2022-04-10
+PROD0348,Burke Water Bottle,SPORTS,Burke Water Bottle,41.27,20.5,Kelly Group,True,2025-05-29
+PROD0349,Pritchard-Gallagher Resistance Bands,Sports,Pritchard-Gallagher Resistance Bands,15.76,8.08,Parsons Group,True,2025-07-12
+PROD0350,"Patel, Water Bottle",Sports,"Patel, Water Bottle",158.88,93.53,Tyler Group,True,2023-01-02
+PROD0351,Smith Running Shoes,Sports,,82.01,36.11,Smith-Alexander,True,2021-07-10
+PROD0352,Richardson-Whitehead Gym Bag,Sports,Richardson-Whitehead Gym Bag,136.94,80.66,Pope Group,True,2022-06-29
+PROD0353,"Smith, Gym Bag",SPORTS,,128.1,53.14,"Wheeler, Brennan and Jennings",True,2025-01-16
+PROD0354,Wade Yoga Mat,sports,Wade Yoga Mat,135.78,96.41,Collins-Harrison,True,2022-10-24
+PROD0355,Andrews Water Bottle,Sports,Andrews Water Bottle,81.76,36.22,"Lewis, Bailey and Elliott",True,2024-04-19
+PROD0356,Jackson-Macdonald Running Shoes,Sports,Jackson-Macdonald Running Shoes,£68.91,31.67,Bailey-Richards,False,2021-08-18
+PROD0357,Hargreaves-George Dumbbells,Sports,Hargreaves-George Dumbbells,55.66,33.99,Archer-Jackson,True,2025-07-22
+PROD0358,Wong Dumbbells,Sports,,22.25,,Dunn-Ashton,True,2023-03-07
+PROD0359,"Patterson, Running Shoes",Sports,"Patterson, Running Shoes",128.85,63.2,Pearce-Cross,True,2025-11-20
+PROD0360,Hall-Hunter Water Bottle,Sports,,146.44,68.2,"Jones, Shaw and Burns",False,2021-09-21
+PROD0361,"Fisher, Gym Bag",Sports,"Fisher, Gym Bag",138.79,90.78,"Mellor, Clark and Johnson",True,2021-11-10
+PROD0362,"Davies, Dumbbells",Sports,,177.08,117.72,Simpson Inc,True,2024-03-09
+PROD0363,Russell Yoga Mat,Sports,Russell Yoga Mat,97.76,40.5,Watkins and Sons,True,2023-12-08
+PROD0364,Smith-Leach Running Shoes,Sports,Smith-Leach Running Shoes,174.58,72.42,"Smith, Jones and Garner",True,2022-03-19
+PROD0365,Elliott Dumbbells,SPORTS,Elliott Dumbbells,192.24,,Jones Group,True,2023-08-07
+PROD0366,Rhodes-Stevens Running Shoes,sports,,107.46,79.09,Rogers LLC,True,2026-02-13
+PROD0367,Harrison-Sullivan Gym Bag,Sports,Harrison-Sullivan Gym Bag,142.5,82.87,Chapman-Hunter,True,2024-02-26
+PROD0368,"Harris, Resistance Bands",SPORTS,"Harris, Resistance Bands",140.76,58.15,"Wyatt, Bennett and Dawson",True,2021-10-30
+PROD0369,Thomas Dumbbells,Sports,,194.24,133.71,"Dawson, Henderson and Thompson",True,2022-12-28
+PROD0370,Humphries Dumbbells,Sports,,163.12,70.39,Thomson-Harper,True,2023-01-09
+PROD0371,Mason Gym Bag,Sports,Mason Gym Bag,195.35,,Singh-Hancock,True,2024-05-25
+PROD0372,"Moore, Yoga Mat",Sports,"Moore, Yoga Mat",177.64,124.2,"Williams, Patel and Lord",True,2026-04-03
+PROD0373,"Singh, Water Bottle",Sports,,28.1,20.69,"Hodgson, Baldwin and Pearson",True,2024-04-09
+PROD0374,"Green, Dumbbells",Sports,,165.86,,Mahmood PLC,True,2025-07-13
+PROD0375,Smith Dumbbells,Sports,Smith Dumbbells,140.79,72.77,Simpson LLC,False,2025-02-12
+PROD0376,Martin-Jackson Yoga Mat,Sports,,177.62,113.33,"Roberts, Kay and Watts",True,2021-11-25
+PROD0377,"Wright, Yoga Mat",Sports,"Wright, Yoga Mat",175.45,109.44,Francis-James,True,2022-09-10
+PROD0378,Wilson-Johnson Yoga Mat,Sports,Wilson-Johnson Yoga Mat,121.44,80.73,"Buckley, Baker and Peters",True,2021-09-25
+PROD0379,Jones Yoga Mat,SPORTS,,55.62,27.6,Howe-Kelly,True,2025-04-27
+PROD0380,Willis Dumbbells,Sports,Willis Dumbbells,108.73,58.99,"Begum, Simpson and Parry",False,2023-10-20
+PROD0381,Kirk-Waters Water Bottle,sports,Kirk-Waters Water Bottle,91.44,67.5,Watts PLC,True,2022-05-30
+PROD0382,Wood-Smith Yoga Mat,Sports,Wood-Smith Yoga Mat,189.32,,"Brown, Morrison and Edwards",True,2022-01-04
+PROD0383,Baker-Clarke Water Bottle,sports,Baker-Clarke Water Bottle,39.25,21.96,Edwards Ltd,True,2021-07-09
+PROD0384,Mills-Archer Running Shoes,Sports,Mills-Archer Running Shoes,19.88,10.94,Dyer Group,True,2021-06-26
+PROD0385,"Wood, Gym Bag",sports,"Wood, Gym Bag",50.05,29.21,Hussain-Cunningham,True,2021-08-31
+PROD0386,Evans-Brown Gym Bag,Sports,Evans-Brown Gym Bag,197.17,132.71,Fletcher-Chandler,True,2024-12-17
+PROD0387,Jones Water Bottle,sports,Jones Water Bottle,18.75,9.03,"Griffiths, Moran and Mistry",True,2024-03-25
+PROD0388,"Davies, Gym Bag",sports,"Davies, Gym Bag",166.22,96.01,"Anderson, Forster and Jones",True,2024-08-02
+PROD0389,John Resistance Bands,Sports,John Resistance Bands,199.11,148.77,Mitchell PLC,False,2023-05-01
+PROD0390,Wells Gym Bag,Sports,Wells Gym Bag,118.81,63.15,Cook Inc,False,2022-03-08
+PROD0391,Dixon Yoga Mat,Sports,Dixon Yoga Mat,178.93,90.08,"Sharp, Jackson and Osborne",True,2022-04-15
+PROD0392,Hanson-Owen Gym Bag,Sports,Hanson-Owen Gym Bag,29.55,12.04,"Ahmed, Davies and Evans",True,2024-02-14
+PROD0393,Khan Dumbbells,Sports,Khan Dumbbells,30.58,21.21,"Smith, Alexander and Johnston",True,2023-01-16
+PROD0394,Robinson Water Bottle,Sports,Robinson Water Bottle,128.21,52.31,"Grant, Campbell and Marshall",True,2023-08-23
+PROD0395,Jones-Kelly Resistance Bands,Sports,Jones-Kelly Resistance Bands,93.97,62.23,Mason PLC,True,2022-04-09
+PROD0396,Davis-Hussain Resistance Bands,Sports,Davis-Hussain Resistance Bands,56.34,41.27,Reed-Jones,True,2023-09-11
+PROD0397,Morton Running Shoes,Sports,Morton Running Shoes,192.39,,Brown Ltd,True,2025-08-07
+PROD0398,"Ward, Water Bottle",Sports,"Ward, Water Bottle",122.19,64.22,Robinson-Smith,False,2025-02-13
+PROD0399,"Saunders, Running Shoes",SPORTS,"Saunders, Running Shoes",87.31,37.15,Brown-Owens,True,2022-05-29
+PROD0400,"Parker, Dumbbells",Sports,"Parker, Dumbbells",163.36,83.28,Vincent-Austin,False,2024-07-04
+PROD0401,"Lee, Gym Bag",Sports,"Lee, Gym Bag",38.29,23.19,"Kirby, Lucas and Wright",True,2025-12-26
+PROD0402,Rice-Middleton Water Bottle,Sports,Rice-Middleton Water Bottle,152.93,61.22,"Murphy, Burke and Roberts",True,2021-08-12
+PROD0403,Lewis-Gill Yoga Mat,SPORTS,Lewis-Gill Yoga Mat,168.39,112.34,West and Sons,True,2023-06-25
+PROD0404,Andrews Yoga Mat,Sports,Andrews Yoga Mat,19.09,8.08,Freeman-Harris,True,2025-08-15
+PROD0405,"Hall, Yoga Mat",Sports,"Hall, Yoga Mat",96.09,64.46,"Noble, Sims and Roberts",True,2021-10-27
+PROD0406,Glover Yoga Mat,SPORTS,Glover Yoga Mat,148.69,70.95,Holland Inc,True,2024-01-16
+PROD0407,Thompson Water Bottle,Sports,Thompson Water Bottle,40.83,26.54,Ellis LLC,True,2022-05-15
+PROD0408,Wall Running Shoes,Sports,Wall Running Shoes,13.69,9.3,Chapman PLC,True,2022-09-19
+PROD0409,"Evans, Dumbbells",sports,"Evans, Dumbbells",117.42,,Hall Inc,True,2024-05-28
+PROD0410,Hyde-Davies Yoga Mat,SPORTS,Hyde-Davies Yoga Mat,194.35,91.24,Gibson-Graham,True,2024-01-28
+PROD0411,Collins Resistance Bands,Sports,Collins Resistance Bands,186.81,87.97,Ferguson-Thomas,True,2022-03-19
+PROD0412,"Smith, Dumbbells",Sports,"Smith, Dumbbells",138.82,59.35,"Collins, Thompson and Ryan",True,2023-06-26
+PROD0413,Walters Dumbbells,Sports,Walters Dumbbells,98.86,58.44,"Carter, Wood and Page",True,2023-07-23
+PROD0414,Page Running Shoes,Sports,Page Running Shoes,60.26,25.14,"Evans, Hilton and Barnes",True,2026-03-11
+PROD0415,Hall-Norman Yoga Mat,Sports,Hall-Norman Yoga Mat,91.91,,Rees PLC,True,2022-07-02
+PROD0416,Williams-Swift Shampoo,Beauty,Williams-Swift Shampoo,£72.77,47.98,"Fraser, Murray and Cook",True,2025-03-22
+PROD0417,Ellis-Hughes Lipstick,Beauty,Ellis-Hughes Lipstick,71.95,43.61,Jones LLC,True,2021-12-15
+PROD0418,Walters Face Mask,Beauty,Walters Face Mask,45.5,29.9,"Archer, Holmes and Thornton",True,2021-10-31
+PROD0419,"Ashton, Face Mask",Beauty,"Ashton, Face Mask",22.46,9.89,King LLC,False,2022-01-09
+PROD0420,Richards Body Lotion,Beauty,Richards Body Lotion,5.73,3.87,White-Simpson,False,2023-08-06
+PROD0421,"Johnson, Lipstick",Beauty,,57.2,30.94,Jackson Group,True,2023-05-06
+PROD0422,Mason-O'Neill Perfume,Beauty,Mason-O'Neill Perfume,62.09,33.01,Bevan Ltd,True,2023-07-24
+PROD0423,Bailey-Carroll Moisturiser,BEAUTY,Bailey-Carroll Moisturiser,79.39,50.62,Burton LLC,True,2024-11-22
+PROD0424,Cox-Shaw Body Lotion,Beauty,Cox-Shaw Body Lotion,24.12,14.46,"Kirk, Brown and Poole",True,2021-10-21
+PROD0425,Franklin-Gibson Perfume,Beauty,Franklin-Gibson Perfume,47.15,34.85,"Farmer, Watkins and Roberts",True,2021-12-04
+PROD0426,"Pritchard, Lipstick",Beauty,"Pritchard, Lipstick",51.37,30.29,Hawkins Inc,True,2025-01-06
+PROD0427,Jones-Chapman Moisturiser,Beauty,Jones-Chapman Moisturiser,76.3,48.99,Green-Walsh,True,2024-09-18
+PROD0428,Scott-Harvey Face Mask,Beauty,Scott-Harvey Face Mask,77.64,48.67,Pearce-Murray,True,2021-12-09
+PROD0429,Cox Body Lotion,Beauty,,10.38,5.41,Richardson-Fletcher,False,2021-08-31
+PROD0430,"Norman, Moisturiser",Beauty,"Norman, Moisturiser",31.12,14.4,"Wall, Daniels and Jackson",True,2026-01-07
+PROD0431,"Parsons, Moisturiser",BEAUTY,"Parsons, Moisturiser",74.97,41.85,"Harrison, West and Sykes",False,2023-08-22
+PROD0432,King-Robinson Lipstick,Beauty,King-Robinson Lipstick,50.38,28.84,"Richardson, Williams and Daly",True,2024-07-21
+PROD0433,"Davies, Shampoo",Beauty,"Davies, Shampoo",28.32,17.05,Rose Group,True,2025-06-02
+PROD0434,"Davey, Lipstick",Beauty,"Davey, Lipstick",52.9,33.79,Talbot-Williams,True,2024-01-24
+PROD0435,"Ross, Lipstick",beauty,"Ross, Lipstick",32.94,20.32,Adams LLC,True,2026-04-08
+PROD0436,Elliott Body Lotion,Beauty,Elliott Body Lotion,30.03,15.95,Russell-Howard,True,2026-03-26
+PROD0437,Stevens Face Mask,Beauty,Stevens Face Mask,26.35,16.43,"Gallagher, Bowen and Lynch",False,2026-02-05
+PROD0438,Jackson-Cooper Shampoo,Beauty,Jackson-Cooper Shampoo,69.83,32.69,Reynolds PLC,True,2023-12-21
+PROD0439,Allen-Pritchard Body Lotion,Beauty,Allen-Pritchard Body Lotion,55.71,28.68,Shaw Group,True,2023-10-15
+PROD0440,Davies Lipstick,Beauty,Davies Lipstick,16.73,10.06,Webb-Davies,True,2023-02-09
+PROD0441,"Walker, Moisturiser",Beauty,"Walker, Moisturiser",20.98,15.67,"Shaw, Miller and Wilson",False,2022-03-10
+PROD0442,Harper Face Mask,Beauty,Harper Face Mask,23.97,12.83,Rice-Davies,True,2024-03-29
+PROD0443,Bates-Mills Perfume,Beauty,Bates-Mills Perfume,21.03,9.84,"Hughes, Hancock and Jackson",True,2022-05-02
+PROD0444,"Brown, Lipstick",Beauty,"Brown, Lipstick",49.51,22.66,Rose-Newton,True,2024-08-11
+PROD0445,Duffy-Marshall Perfume,Beauty,,19.96,10.13,Black-Parkinson,True,2022-03-24
+PROD0446,Taylor Perfume,Beauty,Taylor Perfume,51.06,24.26,"Anderson, Butler and Wood",False,2023-10-22
+PROD0447,Campbell-Baker Perfume,Beauty,,7.47,5.5,"Collins, Gray and Kirk",True,2025-06-14
+PROD0448,Lees Moisturiser,Beauty,Lees Moisturiser,62.99,29.11,Rahman Ltd,True,2023-06-06
+PROD0449,"Holt, Face Mask",Beauty,"Holt, Face Mask",59.66,26.61,"Cooper, Parker and Harrison",True,2023-04-16
+PROD0450,"Brown, Lipstick",Beauty,,16.36,7.33,Cook-Hodgson,True,2023-06-17
+PROD0451,"Stevens, Face Mask",Beauty,"Stevens, Face Mask",42.48,28.77,Holt PLC,True,2024-04-10
+PROD0452,"Robinson, Face Mask",Beauty,"Robinson, Face Mask",29.62,19.53,Vaughan-Thompson,True,2023-07-09
+PROD0453,Carr Body Lotion,Beauty,,67.95,34.03,Moss and Sons,False,2024-08-25
+PROD0454,Owen Perfume,BEAUTY,Owen Perfume,5.92,,"Miller, Morton and Todd",True,2021-12-16
+PROD0455,Jackson Face Mask,Beauty,Jackson Face Mask,53.19,25.6,"Davies, Richards and Harris",True,2023-11-27
+PROD0456,Sheppard Perfume,BEAUTY,Sheppard Perfume,9.25,3.72,"Marshall, Arnold and Evans",True,2022-04-26
+PROD0457,Morrison Body Lotion,Beauty,Morrison Body Lotion,11.62,5.88,"Davies, Graham and Price",False,2023-09-16
+PROD0458,Rice Shampoo,Beauty,Rice Shampoo,41.96,29.27,Morrison-Palmer,True,2024-11-03
+PROD0459,Hutchinson Body Lotion,Beauty,Hutchinson Body Lotion,35.4,23.41,"Gray, Kaur and McCarthy",True,2024-01-02
+PROD0460,Baker-Thornton Shampoo,Beauty,,76.17,32.32,"Kent, Cole and Armstrong",True,2025-09-30
+PROD0461,Brown-Lee Shampoo,Beauty,Brown-Lee Shampoo,67.55,30.01,Collins-Cox,True,2023-02-08
+PROD0462,Marsden-Patel Lipstick,Beauty,Marsden-Patel Lipstick,60.1,42.67,Pearson-Wong,True,2023-03-18
+PROD0463,"Smith, Moisturiser",Beauty,"Smith, Moisturiser",44.46,29.72,Grant-Nicholson,True,2023-04-07
+PROD0464,Johnson Lipstick,Beauty,Johnson Lipstick,39.27,19.29,Clark LLC,True,2025-03-21
+PROD0465,Turner-Morgan Perfume,Beauty,Turner-Morgan Perfume,14.82,6.4,"Wood, Brown and Humphries",True,2022-05-23
+PROD0466,Ward Body Lotion,Beauty,Ward Body Lotion,11.76,4.92,Hammond Group,False,2024-05-19
+PROD0467,White-Smith Body Lotion,Beauty,White-Smith Body Lotion,20.34,11.29,Anderson-King,True,2024-10-05
+PROD0468,Stevenson Perfume,Beauty,Stevenson Perfume,17.81,8.09,Waters Ltd,True,2025-09-05
+PROD0469,"Taylor, Body Lotion",BEAUTY,"Taylor, Body Lotion",36.45,18.75,Hussain and Sons,True,2022-11-25
+PROD0470,Hopkins Shampoo,Beauty,Hopkins Shampoo,72.14,37.06,"Hill, Connolly and Page",True,2023-07-07
+PROD0471,Murphy Face Mask,Beauty,Murphy Face Mask,75.41,37.21,Watts Inc,True,2022-06-15
+PROD0472,Townsend Lipstick,Beauty,Townsend Lipstick,26.02,18.99,Williams and Sons,True,2024-08-09
+PROD0473,Johnson-Daly Shampoo,beauty,Johnson-Daly Shampoo,71.88,43.94,"Cox, John and James",True,2021-06-22
+PROD0474,Winter Moisturiser,Beauty,Winter Moisturiser,29.15,18.46,"Campbell, Bennett and Burgess",True,2025-01-20
+PROD0475,Shepherd Shampoo,Beauty,Shepherd Shampoo,48.04,28.6,Williams-Stanley,True,2022-03-31
+PROD0476,Simpson Shampoo,Beauty,Simpson Shampoo,64.28,34.65,Coles and Sons,True,2023-06-05
+PROD0477,"Richardson, Face Mask",Beauty,"Richardson, Face Mask",41.15,28.14,Khan-Campbell,True,2023-04-05
+PROD0478,Smith Body Lotion,Beauty,Smith Body Lotion,60.23,38.95,Sullivan Group,True,2022-05-13
+PROD0479,Smith-Ross Moisturiser,Beauty,Smith-Ross Moisturiser,19.34,9.62,Austin-O'Brien,True,2024-01-24
+PROD0480,Adams-Marsh Moisturiser,Beauty,Adams-Marsh Moisturiser,38.97,20.32,Arnold-Hammond,True,2026-04-26
+PROD0481,Hughes Moisturiser,Beauty,Hughes Moisturiser,63.19,39.49,Pearce Inc,True,2023-10-09
+PROD0482,"Evans, Perfume",beauty,"Evans, Perfume",19.1,9.49,Walker-Bryant,False,2022-02-24
+PROD0483,"Gallagher, Lipstick",Beauty,"Gallagher, Lipstick",10.27,6.58,"Scott, Short and Kirby",True,2024-05-25
+PROD0484,Smith-Bishop Moisturiser,Beauty,Smith-Bishop Moisturiser,19.74,8.71,Taylor Group,True,2023-09-30
+PROD0485,Lambert Moisturiser,Beauty,Lambert Moisturiser,50.03,,Grant PLC,True,2023-05-18
+PROD0486,"Marshall, Face Mask",Beauty,"Marshall, Face Mask",58.84,32.73,"Jones, Johnston and Akhtar",True,2024-08-09
+PROD0487,Williams Face Mask,Beauty,,60.74,28.85,"Wells, Gibson and Read",True,2023-08-26
+PROD0488,Kelly-Welch Lipstick,Beauty,Kelly-Welch Lipstick,53.44,33.82,"Read, Baker and Roberts",True,2024-11-10
+PROD0489,"Smith, Perfume",Beauty,"Smith, Perfume",5.72,3.41,Evans Ltd,True,2022-05-07
+PROD0490,Webb-Arnold Shampoo,Beauty,Webb-Arnold Shampoo,15.4,7.71,"Bradley, Allen and Khan",True,2022-01-07
+PROD0491,Ali-Dixon Body Lotion,beauty,Ali-Dixon Body Lotion,32.91,22.27,McKenzie Group,True,2024-11-10
+PROD0492,Stewart-Hughes Shampoo,Beauty,,63.21,38.19,"Pearson, Davies and Butler",True,2023-01-19
+PROD0493,"Smith, Lipstick",Beauty,"Smith, Lipstick",75.06,44.47,Williams-Adams,True,2023-04-23
+PROD0494,"Lewis, Moisturiser",Beauty,"Lewis, Moisturiser",71.49,,Ford Group,True,2022-04-24
+PROD0495,Morgan-Marshall Lipstick,beauty,Morgan-Marshall Lipstick,21.53,,"Wilson, John and Hussain",False,2023-03-01
+PROD0496,Cooper Lipstick,Beauty,Cooper Lipstick,69.5,28.34,Collins-Armstrong,True,2025-10-22
+PROD0497,Martin-Richards Perfume,Beauty,Martin-Richards Perfume,23.83,16.74,Mason Ltd,True,2026-03-24
+PROD0498,"Smith, Moisturiser",Beauty,"Smith, Moisturiser",22.97,10.19,Marshall-Roberts,False,2024-05-03

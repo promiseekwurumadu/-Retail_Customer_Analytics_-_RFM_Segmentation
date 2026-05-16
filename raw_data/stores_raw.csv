@@ -1,0 +1,51 @@
+store_id,store_name,region,postcode,store_size_sqft,num_staff,manager_name,opening_date,is_flagship
+STR001,Bishopstad Shopping Centre,East England,BT89 1FW,22411,26,Mr Henry Knight,2022-02-19,False
+STR002,Leahview Superstore,East England,BB96 0JG,7651,73,Colin Hunt-Smith,2017-10-14,False
+STR003,Millerville Shopping Centre,NW England,PR1 0ZR,17130,121,,2020-12-04,True
+STR004,Donaldhaven Retail Park,Greater London,SA8H 5RD,3269,63,,2019-12-26,False
+STR005,West Andrew Retail Park,SW England,W1 4JH,16723,112,Aaron Wright,2019-11-21,False
+STR006,North Angela Retail Park,Scotland,HX21 3PL,19838,13,Elizabeth Bond,15/05/2019,False
+STR007,Dyerview High Street,East England,N0 1BJ,21423,17,Miss Debra Martin,2018-12-31,True
+STR008,Collinston Superstore,East England,CV7 4LG,4766,60,Rosie Davis-Allen,2021-07-02,False
+STR009,Sharonburgh Superstore,SE England,LA5 1DH,9510,95,,19/08/2016,True
+STR010,East Amanda Shopping Centre,W. Midlands,SE2 0PZ,18122,86,Bernard Bond,2022-02-26,False
+STR011,Emilyfort Retail Park,SE England,PH4 8JF,2571,121,Paul Parker,2021-11-15,False
+STR012,Jeremyburgh Superstore,Wales,N7 1UJ,15956,119,Mr Abdul Hamilton,2020-02-18,False
+STR013,Gibbonsbury Retail Park,Yorkshire & Humber,M1 7PU,12936,60,Mrs Karen Young,30/11/2020,False
+STR014,Mandystad High Street,Yorkshire & Humber,OL1 7ZH,16400,75,Debra Lewis,2016-10-14,False
+STR015,Port Bruceborough Retail Park,SW England,N2A 8XB,13574,26,Frank Nixon,2019-08-05,False
+STR016,Kellyport Retail Park,Scotland,TW8B 6YY,10716,113,Rachel Kelly,12/03/2018,True
+STR017,East Sophiefort Retail Park,East England,G3 7TY,4222,39,,2018-09-03,False
+STR018,West Wendyside Shopping Centre,Scotland,E5G 8JF,3223,15,Jenna Palmer,27/09/2020,False
+STR019,Gardnerburgh Retail Park,Yorkshire & Humber,S6A 7WL,20445,79,Shirley Atkinson,2024-06-01,False
+STR020,Craigfurt High Street,SE England,B9T 7WU,3385,75,Mr Craig Martin,2025-01-04,False
+STR021,South Rossstad Superstore,NE England,G8 4EB,14943,145,Amber Thomas,15/04/2020,False
+STR022,West Sandra Superstore,SE England,HU9 6RB,24451,40,Callum Akhtar,27/03/2024,False
+STR023,West Christianside Retail Park,Wales,M37 9BD,15463,107,Bethany Ball-Griffin,2022-07-06,True
+STR024,Millston Retail Park,Scotland,UB66 8GE,17893,132,Mrs Melanie Rogers,23/04/2022,False
+STR025,North Roger Superstore,NW England,SN4R 8YU,7997,63,Dr Allan Shah,2023-07-11,False
+STR026,New Keith Retail Park,NE England,KA4N 4QN,22006,124,Jasmine Bell,2024-05-10,True
+STR027,Sammouth Superstore,W. Midlands,WS3 0NL,23637,45,,20/04/2018,False
+STR028,South Kathryn High Street,Wales,SK04 2AF,5463,32,Heather Williams,2021-07-18,False
+STR029,Daviesshire Shopping Centre,Greater London,E70 2LY,5115,149,Mrs Shannon Collins,2021-02-17,False
+STR030,Smithchester Superstore,Yorkshire & Humber,DH0B 6YD,6803,38,,2019-02-25,False
+STR031,West Gregoryhaven Shopping Centre,Greater London,SM8W 2GH,23675,140,,2024-03-14,False
+STR032,Campbellfort Superstore,SE England,NP8 6YY,10520,87,Damian Owens,2020-01-03,False
+STR033,O'Brienhaven Shopping Centre,SE England,DA5E 0YB,19103,141,Sam Johnson,2021-04-24,False
+STR034,Jeffreyland Shopping Centre,Scotland,L20 7YU,16341,12,Keith Sanders,2021-03-28,True
+STR035,Elizabethchester Retail Park,Greater London,HU88 5DW,15722,131,Sam Smith-Ward,15/03/2025,False
+STR036,Leefurt Superstore,NW England,SE5 3ZB,20462,31,Keith Hutchinson,2019-02-08,False
+STR037,Richardsonport Superstore,SE England,CR2R 6YE,24096,79,Amelia Gould,2017-10-23,False
+STR038,Grahamhaven High Street,SW England,JE6V 1HW,17183,110,Lee Davies,2017-12-30,False
+STR039,Martynport Retail Park,Scotland,CO8 4XZ,10753,21,Mohammad Hudson,2019-04-28,False
+STR040,Damianburgh Retail Park,SE England,BS49 4HL,21037,118,Miss Hazel Harris,21/04/2019,False
+STR041,Birdborough High Street,Scotland,CF9W 3PL,7800,134,Mr Lee Williams,2019-11-05,False
+STR042,Dawsonton Shopping Centre,Wales,HX5 9QG,14366,100,Mr Phillip Wilson,2017-06-21,False
+STR043,Craigshire Superstore,NE England,G4 8JN,7954,84,Stephen Price-Barnes,2024-03-28,False
+STR044,Graemetown Shopping Centre,SW England,S7G 9EG,21982,106,Julian Lyons,2019-05-22,False
+STR045,Bradleybury Superstore,W. Midlands,L82 9YL,2839,78,Ms Sophie Williams,2016-10-21,False
+STR046,Port Colinborough High Street,SE England,TA8M 3ZN,20377,96,Jessica Brown,2024-06-02,True
+STR047,New Shirley High Street,East England,L17 9WW,22654,114,Ms Megan Power,2021-11-10,False
+STR048,Lake Holliefort High Street,Greater London,DA0H 9BE,10713,146,Marion Davies,2016-09-12,False
+STR049,Jacksonberg Superstore,Yorkshire & Humber,E27 8PY,6504,76,Dr Edward Taylor,2024-07-05,False
+STR050,South Rosiestad Retail Park,Wales,YO5 0XZ,15923,15,Diane Clayton,2025-03-27,True
